@@ -1,0 +1,7 @@
+streamlit>=1.40
+torch>=2.2
+transformers>=4.45,<5
+accelerate>=0.33
+langchain-classic>=1.0
+langchain-core>=1.0
+pypdf>=4.0
